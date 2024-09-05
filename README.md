@@ -66,6 +66,8 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/im-saif/im-saif/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="left">
