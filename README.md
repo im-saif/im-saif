@@ -1,5 +1,6 @@
+<h1 align="center">Hi there! I'm Saif 👋</h1>
 <div align="center">
-  <img height="300" src="https://i.ytimg.com/vi/rmLqAS1utV4/maxresdefault.jpg"/>
+  <img src="https://i.ytimg.com/vi/rmLqAS1utV4/maxresdefault.jpg"/>
 </div>
 
 ###
